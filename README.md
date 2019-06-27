@@ -12,3 +12,6 @@
 
 ## feature
 * Login system
+	* username: `admin` and password: `admin`
+	* username: `staff` and password: `staff`
+	* username: `user` and password: `user`
